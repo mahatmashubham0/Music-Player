@@ -1,4 +1,4 @@
-# Podstream
+# MERN MUSIC PLAYER
 <div align='center'>
 
 ![GitHub issues](https://img.shields.io/github/issues/rishavchanda/Podstream)
@@ -12,7 +12,7 @@
 
 </div>
 
-## Podcast Streaming Application
+## MERN MUSIC APPLICATION
 
 ### Deployed Link : [View Webapp](https://podstream.netlify.app/)
 
